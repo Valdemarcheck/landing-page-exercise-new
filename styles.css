@@ -16,9 +16,15 @@ h2 {
 
 h1 {
     font-size: 24px;
+    margin-right: auto;
 }
 
 h2 {
     font-size: 48px;
 }
 
+header {
+    background-color: #1F2937;
+    display: flex;
+    padding: 0 100px;
+}
