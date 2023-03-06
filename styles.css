@@ -92,7 +92,7 @@ header ul {
 .quote {
     height: 400px;
     background-color: #E5E7EB;
-    
+
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -101,5 +101,17 @@ header ul {
 }
 
 .quote * {
-    max-width: 60%;
+    width: 70%;
+    color: #1F2937;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.quote-author {
+    text-align: end;
+    font-weight: bold;
 }
