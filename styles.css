@@ -40,3 +40,12 @@ header ul {
     gap: 24px;
 }
 
+.hero {
+    background-color: #1F2937;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+
