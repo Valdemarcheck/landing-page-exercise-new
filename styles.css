@@ -9,6 +9,10 @@ body {
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+a {
+    color: #E5E7EB;
+}
+
 h1,
 h2 {
     color: #F9FAF8;
@@ -26,5 +30,10 @@ h2 {
 header {
     background-color: #1F2937;
     display: flex;
-    padding: 0 100px;
+    padding: 0 10%;
+}
+
+header ul {
+    display: flex;
+    gap: 24px;
 }
