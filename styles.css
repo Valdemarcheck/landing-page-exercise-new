@@ -3,3 +3,15 @@
     font-size: 18px;
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+
+h1, h2 {
+    color: #F9FAF8; 
+}
+
+h1 {
+   font-size: 24px;
+}
+
+h2 {
+    font-size: 48px;
+}
