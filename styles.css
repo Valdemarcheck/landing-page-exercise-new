@@ -9,7 +9,8 @@ body {
     margin: 0;
 }
 
-a, .hero-text p {
+a,
+.hero-text p {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -30,7 +31,7 @@ h2 {
 
 header {
     height: 64px;
-    padding: 0 10%;
+    padding: 0 15%;
     background-color: #1F2937;
     display: flex;
     align-items: center;
@@ -46,11 +47,13 @@ header ul {
     height: 400px;
     display: flex;
     align-items: center;
-    justify-content: center;
-    gap: 24px;
+    justify-content: space-evenly;
+}
+
+.hero-text {
+    max-width: 450px;
 }
 
 .hero-text p {
-    max-width: 450px;
     margin: 8px 0;
 }
