@@ -88,3 +88,18 @@ header ul {
     width: 180px;
     height: 180px;
 }
+
+.quote {
+    height: 400px;
+    background-color: #E5E7EB;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+.quote * {
+    max-width: 60%;
+}
