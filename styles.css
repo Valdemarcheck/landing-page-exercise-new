@@ -11,7 +11,6 @@ body {
 
 a,
 .hero-text p {
-    font-size: 18px;
     color: #E5E7EB;
 }
 
@@ -79,6 +78,11 @@ header ul {
 
 .card {
     flex-basis: 200px;
+}
+
+.card p {
+    font-size: 16px;
+    color: #474747;
 }
 
 .card img {
