@@ -57,3 +57,8 @@ header ul {
 .hero-text p {
     margin: 8px 0;
 }
+
+.information-title {
+    font-size: 36px;
+    color: #1F2937;
+}
