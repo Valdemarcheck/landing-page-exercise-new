@@ -1,3 +1,5 @@
-h1 {
-    color: red;
+* {
+    box-sizing: border-box;
+    font-size: 18px;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
