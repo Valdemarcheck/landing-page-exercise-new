@@ -62,3 +62,9 @@ header ul {
     font-size: 36px;
     color: #1F2937;
 }
+
+.information {
+    height: 400px;
+    padding: 36px 0;
+    text-align: center;
+}
