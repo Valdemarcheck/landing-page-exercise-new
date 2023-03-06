@@ -81,11 +81,10 @@ header ul {
 }
 
 .card p {
-    font-size: 16px;
     color: #474747;
 }
 
 .card img {
-    width: 150px;
-    height: 150px;
+    width: 180px;
+    height: 180px;
 }
