@@ -9,7 +9,8 @@ body {
     margin: 0;
 }
 
-a {
+a, .hero-text p {
+    font-size: 18px;
     color: #E5E7EB;
 }
 
@@ -49,3 +50,7 @@ header ul {
     gap: 24px;
 }
 
+.hero-text p {
+    max-width: 450px;
+    margin: 8px 0;
+}
