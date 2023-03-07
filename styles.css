@@ -147,10 +147,15 @@ header ul {
     height: 140px;
     background-color: #3882f6;
     border-radius: 8px;
+    padding: 0 32px;
 
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+}
+
+.sign-up-card .right {
+    width: 70%;
 }
 
 .sign-up-card h2 {
