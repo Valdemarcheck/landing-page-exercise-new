@@ -115,3 +115,10 @@ header ul {
     text-align: end;
     font-weight: bold;
 }
+
+.sign-up-section {
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
