@@ -7,9 +7,10 @@ body {
     font-size: 18px;
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     margin: 0;
+    text-decoration: none;
 }
 
-a,
+.header-links a,
 .hero-text p {
     color: #E5E7EB;
 }
