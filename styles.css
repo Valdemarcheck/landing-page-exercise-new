@@ -10,8 +10,9 @@ body {
     text-decoration: none;
 }
 
-.header-links a,
-.hero-text p {
+a,
+.hero-text p,
+footer {
     color: #E5E7EB;
 }
 
@@ -152,5 +153,14 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 8px;
 }
 
+.footer-text a {
+    font-style: italic;
+}
+
+.github-website-icon {
+    width: 16px;
+    height: 16px;
+}
