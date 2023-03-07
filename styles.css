@@ -65,7 +65,7 @@ header ul {
 }
 
 .information {
-    height: 450px;
+    min-height: 450px;
     padding: 36px 0;
     text-align: center;
 }
@@ -74,8 +74,17 @@ header ul {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 36px;
+    flex-wrap: wrap;
     gap: 36px;
+    margin-top: 36px;
+}
+
+.card-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 36px;
+    width: 400px;
 }
 
 .card {
