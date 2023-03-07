@@ -125,10 +125,22 @@ header ul {
 
 .sign-up-card {
     width: 80%;
+    max-width: 900px;
+    height: 140px;
     background-color: #3882f6;
-    padding: 12px;
+    border-radius: 8px;
 
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
+}
+
+.sign-up-card h2 {
+    font-size: 24px;
+    margin-bottom: 4px;
+}
+
+.sign-up-card p {
+    color: #E5E7EB;
+    font-size: 16px;
 }
