@@ -39,7 +39,7 @@ h2 {
 
 header {
     height: 64px;
-    padding: 0 15%;
+    padding: 0 20%;
     background-color: #1F2937;
     display: flex;
     align-items: center;
@@ -52,18 +52,17 @@ header ul {
 
 .hero {
     background-color: #1F2937;
-    height: 400px;
+    min-height: 400px;
+    padding: 64px 32px;
+    gap: 24px;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .hero>* {
-    max-width: 400px;
-}
-
-.hero-text {
-    max-width: 450px;
+    max-width: 500px;
 }
 
 .hero-text p {
