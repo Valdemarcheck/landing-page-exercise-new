@@ -166,3 +166,16 @@ footer {
     width: 16px;
     height: 16px;
 }
+
+.sign-up-btn {
+    background-color: #3882f6;
+    color: #E5E7EB;
+    border: none;
+    width: 135px;
+    height: 40px;
+    border-radius: 8px;
+}
+
+.sign-up-btn.white-border {
+    border: #E5E7EB 2px solid;
+}
