@@ -80,15 +80,16 @@ header ul {
     justify-content: center;
     flex-wrap: wrap;
     gap: 36px;
-    margin-top: 36px;
+    margin: 64px 32px;
 }
 
 .card-row {
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: flex-start;
     gap: 36px;
-    width: 400px;
+    width: 520px;
+    height: 300px;
 }
 
 .card {
@@ -97,11 +98,12 @@ header ul {
 
 .card p {
     color: #474747;
+    font-size: 18px;
 }
 
 .card img {
-    width: 190px;
-    height: 190px;
+    width: 250px;
+    height: 250px;
     object-fit: cover;
     border: #3882f6 solid 4px;
     border-radius: 8px;
