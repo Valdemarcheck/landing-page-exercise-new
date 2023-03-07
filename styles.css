@@ -89,6 +89,8 @@ header ul {
 .card img {
     width: 180px;
     height: 180px;
+    border: #3882f6 solid 4px;
+    border-radius: 8px;
 }
 
 .quote {
