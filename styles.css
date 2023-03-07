@@ -51,9 +51,8 @@ header ul {
     justify-content: space-evenly;
 }
 
-.hero-img {
-    width: 400px;
-    height: auto;
+.hero>* {
+    max-width: 400px;
 }
 
 .hero-text {
@@ -101,8 +100,9 @@ header ul {
 }
 
 .card img {
-    width: 180px;
-    height: 180px;
+    width: 190px;
+    height: 190px;
+    object-fit: cover;
     border: #3882f6 solid 4px;
     border-radius: 8px;
 }
