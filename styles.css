@@ -167,13 +167,13 @@ footer {
     gap: 8px;
 }
 
-.footer-text,
-.footer-text a {
+.footer-text {
     font-size: 16px;
 }
 
 .footer-text a {
-    font-style: italic;
+    font-size: inherit;
+    color: #3882f6;
 }
 
 .github-website-icon {
