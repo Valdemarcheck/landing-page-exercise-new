@@ -142,14 +142,14 @@ header ul {
     font-weight: bold;
 }
 
-.sign-up-section {
+.book-section {
     height: 300px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.sign-up-card {
+.book-card {
     width: 80%;
     min-height: 140px;
     max-width: 900px;
@@ -164,16 +164,16 @@ header ul {
     flex-wrap: wrap;
 }
 
-.sign-up-card .right {
+.book-card .right {
     width: 70%;
 }
 
-.sign-up-card h2 {
+.book-card h2 {
     font-size: 24px;
     margin-bottom: 4px;
 }
 
-.sign-up-card p {
+.book-card p {
     color: #E5E7EB;
     font-size: 16px;
 }
@@ -201,7 +201,7 @@ footer {
     height: 16px;
 }
 
-.sign-up-btn {
+.book-btn {
     background-color: #3882f6;
     color: #E5E7EB;
     border: none;
@@ -210,6 +210,6 @@ footer {
     border-radius: 8px;
 }
 
-.sign-up-btn.white-border {
+.book-btn.white-border {
     border: #E5E7EB 2px solid;
 }
