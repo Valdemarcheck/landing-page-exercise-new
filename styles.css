@@ -150,12 +150,17 @@ header ul {
 }
 
 footer {
-    height: 64px;
+    height: 96px;
     background-color: #1F2937;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 8px;
+}
+
+.footer-text,
+.footer-text a {
+    font-size: 16px;
 }
 
 .footer-text a {
