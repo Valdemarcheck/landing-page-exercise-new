@@ -122,3 +122,13 @@ header ul {
     align-items: center;
     justify-content: center;
 }
+
+.sign-up-card {
+    width: 80%;
+    background-color: #3882f6;
+    padding: 12px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
